@@ -13,6 +13,7 @@ A simple and elegant Chrome extension to **track your time spent on websites**, 
 ## 📸 UI Preview
 
 <img width="1470" alt="Image" src="https://github.com/user-attachments/assets/327c604f-9202-4187-a6c0-67af1ed1b53f" />
+<img width="591" alt="Image" src="https://github.com/user-attachments/assets/b2494aa6-1381-4a4f-9b6a-5317116439b7" />
 *Track, analyze, and optimize your web time effortlessly.*
 
 ## 🛠️ Tech Stack
