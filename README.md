@@ -30,7 +30,7 @@ This extension requires the following Chrome permissions:
 - `<all_urls>` (to monitor browsing activity)
 
 ## 📁 Project Structure
-
+```
 vignan-time-tracker/
 │
 ├── background.js       # Handles time tracking in background
@@ -40,7 +40,7 @@ vignan-time-tracker/
 ├── manifest.json       # Chrome extension configuration
 ├── icons/              # Extension icons
 └── README.md           # You're here
-
+```
 
 ## 📦 Installation
 
